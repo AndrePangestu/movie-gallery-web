@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';
-import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 
 import store from './store';
